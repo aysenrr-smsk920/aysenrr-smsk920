@@ -32,9 +32,9 @@
 </p>
 
 ---
-
 ### 📊 GitHub İstatistiklerim  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aysenur-Simsek&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aysenur-Simsek&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aysenrr-smsk920&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aysenrr-smsk920&layout=compact&theme=radical)  
+  
 
