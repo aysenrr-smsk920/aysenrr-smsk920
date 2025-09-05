@@ -9,10 +9,13 @@ Projelerimde **katmanlı mimari** kullanıyor, **C#, ASP.NET Core, Entity Framew
 - **Yoğun Bakımda Hipotansiyon Tahmini:**  
   - Her dakika ölçülen SpO2, HR, RR, Pulse SpO2 ve Perf verileri ile tansiyon verilerini tahmin etme  
   - Eksik tansiyon verilerini makine öğrenmesi yöntemleriyle tamamlayarak model geliştirme  
+- **Hücre Tespiti ve Görüntü İşleme:**  
+  - Mikroskop görüntülerinde hücrelerin tespiti ve sayımı  
+  - Görüntü işleme teknikleri ve OpenCV kullanımı  
 - **Full-Stack Web Projeleri:**  
   - Katmanlı mimari ile tasarlanmış web uygulamaları  
   - Backend: DTO, Entity, Service katmanları  
-  - Frontend: HTML, CSS, JavaScript, Razor Pages  
+  - Frontend: HTML, CSS, JavaScript, Razor Pages
 
 ### 📫 Bana ulaşın  
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aysesimsek920@gmail.com)  
