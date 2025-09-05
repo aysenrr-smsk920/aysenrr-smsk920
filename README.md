@@ -1,10 +1,18 @@
-# Merhaba 👋, Ben Ayşenur Şimşek  
+# Merhaba 👋, Ben Ayşenur Şimşek
 
-👩‍💻 Bilgisayar Mühendisliği öğrencisiyim  
-📚 Yapay Zeka, Backend ve Veri Bilimi ile ilgileniyorum  
-🚀 Şu anda .NET, Python ve Makine Öğrenmesi projeleri üzerinde çalışıyorum  
+👩‍💻 Bilgisayar Mühendisliği öğrencisi & Full-Stack Web Developer  
 
----
+Web projelerinde **backend ve frontend** tarafında çalışıyorum.  
+Projelerimde **katmanlı mimari** kullanıyor, **C#, ASP.NET Core, Entity Framework, MSSQL, HTML, CSS, JavaScript** gibi teknolojilerle temiz ve sürdürülebilir çözümler üretiyorum.  
+
+🧪 **Araştırma & Projeler**  
+- **Yoğun Bakımda Hipotansiyon Tahmini:**  
+  - Her dakika ölçülen SpO2, HR, RR, Pulse SpO2 ve Perf verileri ile tansiyon verilerini tahmin etme  
+  - Eksik tansiyon verilerini makine öğrenmesi yöntemleriyle tamamlayarak model geliştirme  
+- **Full-Stack Web Projeleri:**  
+  - Katmanlı mimari ile tasarlanmış web uygulamaları  
+  - Backend: DTO, Entity, Service katmanları  
+  - Frontend: HTML, CSS, JavaScript, Razor Pages  
 
 ### 📫 Bana ulaşın  
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aysesimsek920@gmail.com)  
